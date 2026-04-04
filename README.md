@@ -61,7 +61,7 @@ The disaggregated framework follows four main steps:
 [Access the full thesis here](https://drive.google.com/drive/folders/1ZBlRA6VUk9bnLSxVCU7je4cfsgF2AAi6)
 
 📄 **Executive Summary / Research Note (PDF):**  
-[Access the synthesis note here](PUT_YOUR_SYNTHESIS_LINK_HERE)
+[Access the synthesis note here](https://drive.google.com/drive/folders/1K3jdt2gPLvLqt71xdkoyD7LqQgVXOX1k)
 
 ---
 
