@@ -58,7 +58,7 @@ The disaggregated framework follows four main steps:
 ## Project Documents
 
 📘 **Full Master’s Thesis (French):**  
-[Access the full thesis here](PUT_YOUR_THESIS_LINK_HERE)
+[Access the full thesis here](https://drive.google.com/drive/folders/1ZBlRA6VUk9bnLSxVCU7je4cfsgF2AAi6)
 
 📄 **Executive Summary / Research Note (PDF):**  
 [Access the synthesis note here](PUT_YOUR_SYNTHESIS_LINK_HERE)
